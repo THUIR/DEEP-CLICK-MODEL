@@ -10,6 +10,14 @@ DEEP-CLICK-MODEL is a small set of Python scripts for the implementation of diff
 # Files
 ## README.md
 This file.
+
+# Requirements
+- Theano
+- Numba
+- TensorFlow
+- TFlearn
+- Numpy
+- Scipy
  
 ## bin/
 Directory with the scripts.

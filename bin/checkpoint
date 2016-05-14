@@ -1,0 +1,2 @@
+model_checkpoint_path: "K_TIME_DATA1-rnn.model"
+all_model_checkpoint_paths: "K_TIME_DATA1-rnn.model"
